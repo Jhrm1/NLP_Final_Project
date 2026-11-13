@@ -1,0 +1,9 @@
+torch>=2.0
+transformers>=4.40
+datasets>=2.18
+scikit-learn>=1.3
+numpy
+scipy
+lime
+shap
+matplotlib
